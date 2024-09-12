@@ -1,5 +1,5 @@
 nama_depan = "Muhammad"
-nama_belakang = "Kauthar"
+nama_belakang = "Kauthar Aja"
 deskripsi = "Saya seorang mahasiswa teknik informatika"
 usia = 26
 
